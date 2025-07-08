@@ -58,8 +58,8 @@ Passions: AI, Cybersecurity, Data Automation, UI/UX
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narsimhareddy28&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narsimhareddy28&layout=compact&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Narsimhareddy28&show_icons=true&theme=graywhite" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narsimhareddy28&layout=compact&theme=graywhite" height="170">
 </p>
 
 ---
