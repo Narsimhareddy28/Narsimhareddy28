@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=180&section=header&text=Sai%20Narsimha%20Reddy&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+useful+digital+products" alt="Typing introduction" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Engineer;Backend+%26+Cloud+Enthusiast;Building+scalable+digital+products" alt="Typing introduction" /></a>
 
 <p>
   <a href="mailto:sainarsimha.k@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,14 +14,14 @@
 
 ## 👋 About Me
 
-I am a **Full Stack Developer and AI Engineer** who builds practical, scalable, and user-focused software. I enjoy turning ideas into complete products—from intuitive interfaces and reliable APIs to intelligent automation and production-ready applications.
+I am a **Full Stack Developer and AI Engineer** focused on building reliable, scalable, and user-centered software. I work across the complete product lifecycle—from designing responsive interfaces and APIs to integrating AI workflows, databases, cloud infrastructure, and deployment pipelines.
 
-- 🤖 Building AI-powered applications, RAG systems, and agentic workflows
-- 💻 Developing modern full-stack web applications and REST APIs
-- 🧩 Designing clean, responsive, accessible, and user-friendly interfaces
-- 🏗️ Working with microservices, databases, cloud platforms, and deployment tools
-- 🔐 Exploring secure application development and practical cybersecurity
-- 🤝 Open to collaboration, meaningful projects, and innovative ideas
+- 🤖 Build AI-powered applications, RAG systems, agents, and automation workflows
+- 💻 Develop full-stack products with modern frontend and backend architectures
+- 🏗️ Design REST APIs, GraphQL services, microservices, and data-driven applications
+- ☁️ Work with databases, containers, cloud platforms, Git, and CI/CD workflows
+- 🔐 Apply secure, accessible, and maintainable engineering practices
+- 🤝 Open to collaboration, innovative products, and meaningful opportunities
 
 ## 🧰 Tech Stack & Expertise
 
@@ -37,37 +37,41 @@ I am a **Full Stack Developer and AI Engineer** who builds practical, scalable, 
 
 ### Frontend Development
 
-Well-versed in **React, TypeScript, JavaScript, Vite, Tailwind CSS, Bootstrap, HTML, and CSS**. I build responsive interfaces, reusable components, dashboards, polished user experiences, and accessible web applications.
+Well-versed in **React, TypeScript, JavaScript, Vite, Tailwind CSS, Bootstrap, HTML, and CSS**. I create responsive interfaces, reusable components, dashboards, accessible layouts, and polished user experiences.
 
-### Backend & APIs
+### Backend, APIs & Architecture
 
-Experienced with **Node.js, Express, Python, FastAPI, Django, Flask, Java, Spring Boot, REST APIs, and GraphQL**. I design maintainable backend services, authentication flows, integrations, and scalable application architectures.
+Experienced with **Node.js, Express, Python, FastAPI, Django, Flask, Java, Spring Boot, REST APIs, GraphQL, authentication, and microservices**. I build maintainable services and integrations designed for real-world applications.
 
-### AI & Data
+### AI, Data & Automation
 
-Focused on **Generative AI, Google Gemini, LangChain, LangGraph, Retrieval-Augmented Generation, vector search, FAISS, AI agents, document Q&A, and intelligent automation**.
+Focused on **Generative AI, Google Gemini, LangChain, LangGraph, Retrieval-Augmented Generation, vector search, FAISS, AI agents, document Q&A, prompt workflows, and intelligent automation**.
 
-### Databases & Infrastructure
+### Databases, Cloud & Developer Tools
 
-Comfortable working with **PostgreSQL, MySQL, MongoDB, SQLite, Docker, AWS, Git, and GitHub**. I work across data modeling, application integration, version control, and deployment workflows.
+Comfortable with **PostgreSQL, MySQL, MongoDB, SQLite, Docker, AWS, Git, GitHub, and deployment workflows**. I work across data modeling, application integration, containerization, version control, and cloud-ready development.
 
 ## 🌟 Featured Projects
 
-| Project | Focus |
-| --- | --- |
-| [Stock Research Agent](https://github.com/Narsimhareddy28/Stock_Research_agent) | AI-powered research assistant |
-| [RAG LangGraph](https://github.com/Narsimhareddy28/Rag_langGraph) | Document Q&A with RAG and agents |
-| [Opero Agentic UI](https://github.com/Narsimhareddy28/Opero-Agentic-UI) | AI business automation interface |
-| [Curated Studios](https://github.com/Narsimhareddy28/Curated_studios_UI) | Full-stack content platform |
-| [Ecommerce MicroServices](https://github.com/Narsimhareddy28/Ecommerce-MicroServices) | React and microservices e-commerce |
-| [MEDIFIT](https://github.com/Narsimhareddy28/MEDIFIT) | AI-assisted health and wellness app |
+<div align="center">
 
-## 📈 GitHub Stats
+<a href="https://github.com/Narsimhareddy28/Stock_Research_agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Narsimhareddy28&repo=Stock_Research_agent&theme=radical&hide_border=true" alt="Stock Research Agent" /></a>
+<a href="https://github.com/Narsimhareddy28/Rag_langGraph"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Narsimhareddy28&repo=Rag_langGraph&theme=radical&hide_border=true" alt="RAG LangGraph" /></a>
+<a href="https://github.com/Narsimhareddy28/Opero-Agentic-UI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Narsimhareddy28&repo=Opero-Agentic-UI&theme=radical&hide_border=true" alt="Opero Agentic UI" /></a>
+<a href="https://github.com/Narsimhareddy28/Ecommerce-MicroServices"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Narsimhareddy28&repo=Ecommerce-MicroServices&theme=radical&hide_border=true" alt="Ecommerce MicroServices" /></a>
+
+</div>
+
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Narsimhareddy28&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narsimhareddy28&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Narsimhareddy28&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
