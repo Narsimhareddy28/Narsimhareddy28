@@ -14,19 +14,42 @@
 
 ## 👋 About Me
 
-- 🎓 MS in Information Systems at Saint Louis University
-- 🤖 Focused on AI, RAG, agentic applications, and automation
-- 💻 Building full-stack products with modern web technologies
-- 🌎 Based in the United States
-- 🤝 Open to collaboration and meaningful projects
+I am a **Full Stack Developer and AI Engineer** who builds practical, scalable, and user-focused software. I enjoy turning ideas into complete products—from intuitive interfaces and reliable APIs to intelligent automation and production-ready applications.
 
-## 🧰 Tech Stack
+- 🤖 Building AI-powered applications, RAG systems, and agentic workflows
+- 💻 Developing modern full-stack web applications and REST APIs
+- 🧩 Designing clean, responsive, accessible, and user-friendly interfaces
+- 🏗️ Working with microservices, databases, cloud platforms, and deployment tools
+- 🔐 Exploring secure application development and practical cybersecurity
+- 🤝 Open to collaboration, meaningful projects, and innovative ideas
 
-<div align="center">
+## 🧰 Tech Stack & Expertise
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,vite,tailwind,nodejs,fastapi,django,spring,graphql,postgres,mongodb,docker,aws,git&perline=9" alt="Technology stack" />
+### Languages
 
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 </div>
+
+### Frontend Development
+
+Well-versed in **React, TypeScript, JavaScript, Vite, Tailwind CSS, Bootstrap, HTML, and CSS**. I build responsive interfaces, reusable components, dashboards, polished user experiences, and accessible web applications.
+
+### Backend & APIs
+
+Experienced with **Node.js, Express, Python, FastAPI, Django, Flask, Java, Spring Boot, REST APIs, and GraphQL**. I design maintainable backend services, authentication flows, integrations, and scalable application architectures.
+
+### AI & Data
+
+Focused on **Generative AI, Google Gemini, LangChain, LangGraph, Retrieval-Augmented Generation, vector search, FAISS, AI agents, document Q&A, and intelligent automation**.
+
+### Databases & Infrastructure
+
+Comfortable working with **PostgreSQL, MySQL, MongoDB, SQLite, Docker, AWS, Git, and GitHub**. I work across data modeling, application integration, version control, and deployment workflows.
 
 ## 🌟 Featured Projects
 
