@@ -1,5 +1,7 @@
 <div align="center">
 
+<h1>Sai Narsimha Reddy</h1>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Engineer;Backend+%26+Cloud+Enthusiast;Building+scalable+digital+products" alt="Typing introduction" /></a>
 
@@ -13,7 +15,7 @@
 
 ## 👋 About Me
 
-I am a **Full Stack Developer and AI Engineer** focused on building reliable, scalable, and user-centered software. I work across the complete product lifecycle—from designing responsive interfaces and APIs to integrating AI workflows, databases, cloud infrastructure, and deployment pipelines.
+I am a **Full Stack Developer and AI Engineer** focused on building reliable, scalable, and user-centered software. I work across the complete product lifecycle—from designing responsive interfaces to building backend systems, AI workflows, and cloud-ready applications.
 
 - 🤖 Build AI-powered applications, RAG systems, agents, and automation workflows
 - 💻 Develop full-stack products with modern frontend and backend architectures
@@ -40,7 +42,7 @@ Well-versed in **React, TypeScript, JavaScript, Vite, Tailwind CSS, Bootstrap, H
 
 ### Backend, APIs & Architecture
 
-Experienced with **Node.js, Express, Python, FastAPI, Django, Flask, Java, Spring Boot, REST APIs, GraphQL, authentication, and microservices**. I build maintainable services and integrations designed for real-world applications.
+Experienced with **Node.js, Express, Python, FastAPI, Django, Flask, Java, Spring Boot, REST APIs, GraphQL, authentication, and microservices**. I build maintainable services and integrations designed for reliability and scale.
 
 ### AI, Data & Automation
 
@@ -48,7 +50,7 @@ Focused on **Generative AI, Google Gemini, LangChain, LangGraph, Retrieval-Augme
 
 ### Databases, Cloud & Developer Tools
 
-Comfortable with **PostgreSQL, MySQL, MongoDB, SQLite, Docker, AWS, Git, GitHub, and deployment workflows**. I work across data modeling, application integration, containerization, version control, and cloud-ready development.
+Comfortable with **PostgreSQL, MySQL, MongoDB, SQLite, Docker, AWS, Git, GitHub, and deployment workflows**. I work across data modeling, application integration, containerization, version control, and delivery.
 
 ## 🌟 Featured Projects
 
@@ -80,7 +82,5 @@ Comfortable with **PostgreSQL, MySQL, MongoDB, SQLite, Docker, AWS, Git, GitHub,
 - GitHub: [@Narsimhareddy28](https://github.com/Narsimhareddy28)
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=100&section=footer&animation=twinkling" width="100%" />
 
 </div>
