@@ -2,6 +2,7 @@
 
 <h1>Sai Narsimha Reddy</h1>
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Engineer;Backend+%26+Cloud+Enthusiast;Building+scalable+digital+products" alt="Typing introduction" /></a>
 
 <p>
