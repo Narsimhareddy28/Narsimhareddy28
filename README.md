@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=180&section=header&text=Sai%20Narsimha%20Reddy&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Engineer;Backend+%26+Cloud+Enthusiast;Building+scalable+digital+products" alt="Typing introduction" /></a>
 
